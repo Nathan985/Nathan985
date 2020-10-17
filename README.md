@@ -1,4 +1,4 @@
-<div>
+<div style="text-align: center;">
 
   # Hello, World!<center> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></center>
 
