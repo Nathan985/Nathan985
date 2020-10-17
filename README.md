@@ -1,4 +1,4 @@
-# Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, World! <center><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></center>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nathan985&show_icons=true&theme=radical)
 
