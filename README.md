@@ -1,6 +1,6 @@
 <div style="background-color: #1C1C1C; ">
 
-  # Hello, World!<center> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></center>
+  # Hello, World!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" align="center" width="30px">
 
   <div style="display: flex">
 
