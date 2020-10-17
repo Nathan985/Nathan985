@@ -11,8 +11,8 @@
 
   <div style="display: flexbox">
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nathan985&repo=AppChat)](https://github.com/anuraghazra/github-readme-stats)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlvesFe&repo=TCCMedWork)](https://github.com/anuraghazra/github-readme-stats)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nathan985&repo=AppChat&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlvesFe&repo=TCCMedWork&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
 
