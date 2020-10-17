@@ -1,4 +1,4 @@
-<div style="background-color: #ccc">
+<div style="background-color: #1C1C1C; ">
 
   # Hello, World!<center> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></center>
 
