@@ -1,6 +1,8 @@
-<div align="center" style="background-color: #1C1C1C; ">
+<div style="background-color: #1C1C1C; ">
 
   # Hi there, i'm Nathan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" style="max-width:100%;">
 
   <div style="display: flex">
 
