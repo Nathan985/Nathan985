@@ -5,7 +5,6 @@
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" style="max-width:100%;">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" style="max-width:100%;"><br>
   <p>Hi, I'm Nathan Rodrigues, a Back-End programmer, student at Etec</p>
-  <p>Hi, I'm Nathan Rodrigues, a Back-End programmer, student at Etec</p>
   <div align="center" style="display: flex">
   
   # Languages and Tools: <br>
