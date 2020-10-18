@@ -2,7 +2,7 @@
 
   # Hi there, i'm Nathan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" style="max-width:100%;">
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" style="max-width:100%;"><br>
 
   <div style="display: flex">
 
@@ -11,7 +11,7 @@
 
   </div>
 
-  <div style="display: flexbox">
+  <div align="center" style="display: flexbox">
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nathan985&repo=AppChat&cache_seconds=86400&theme=tokyonight)](https://github.com/Nathan985/AppChat)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlvesFe&repo=TCCMedWork&cache_seconds=86400&theme=tokyonight)](https://github.com/AlvesFe/TCCMedWork)
