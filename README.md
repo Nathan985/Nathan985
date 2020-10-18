@@ -4,7 +4,7 @@
   
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" style="max-width:100%;"><br>
 
-  <div style="display: flex">
+  <div align="center" style="display: flex">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan985&theme=tokyonight)
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nathan985&show_icons=true&theme=radical)
