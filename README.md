@@ -14,7 +14,7 @@
 <h1>Projects:</h1>
 <div align="center" style="display: flexbox">
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nathan985&repo=AppChat&cache_seconds=86400&theme=tokyonight)](https://github.com/Nathan985/AppChat)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nathan985&repo=AppNotes&cache_seconds=86400&theme=tokyonight)](https://github.com/Nathan985/AppNotes)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlvesFe&repo=TCCMedWork&cache_seconds=86400&theme=tokyonight)](https://github.com/AlvesFe/TCCMedWork)
 
 </div>
