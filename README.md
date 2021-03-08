@@ -1,5 +1,6 @@
 <h1>Hello, My name is Nathan 🧐</h1>
-I'm a Brazilian Junior Programmer working on (BWS IoT).
+
+<p>I'm a Brazilian Junior Programmer working on (<a target="_Blank" href="https://bws-iot.web.app">BWS IoT</a>).</P>
 
 <h2>My programming languages</h2>
 
