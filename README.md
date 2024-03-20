@@ -1,26 +1,17 @@
-<h1>Hello, My name is Nathan 🧐</h1>
+# Olá, Mundo! 👋
 
-<p>I'm a Brazilian Junior Programmer working on (<a target="_Blank" href="https://koode.io/">Koode.io</a>).</P>
+## Sobre Mim
+Sou Nathan, um desenvolvedor apaixonado por tecnologia e programação.
 
-<h2>My programming languages</h2>
+- 🌱 Minha principal Linguagem é **JavaScript**
+- 💼 Estou trabalhando como Programador Pleno na [BWS IoT](https://bwsiot.com).
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+## Linguagens e Ferramentas
 
-<hr>
- <h1>Github Stats</h1>
- 
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nathan985&show_icons=true&theme=radical)
+![Badge JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Badge ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Badge Node](https://img.shields.io/badge/Node.js-14354C?style=for-the-badge&logo=node.js&logoColor=white) ![Badge Git](https://img.shields.io/badge/Git-14354C?style=for-the-badge&logo=git&logoColor=white)
+
+## Estatísticas do GitHub
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan985&layout=compact&theme=dracula&locale=pt-br)](https://github.com/Nathan985/github-readme-stats)
+
+## Entre em Contato
+[![www.linkedin.com/in/nathan-rodrigues-a0984a197/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-rodrigues-a0984a197/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathan.rodrigu3s@gmail.com)
